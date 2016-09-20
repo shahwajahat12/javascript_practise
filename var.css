@@ -1,0 +1,32 @@
+body{
+    background-color:lightgreen;
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color: blue;
+}
+h1{
+    font-size: 100px;
+    color: red !important;
+    text-align: center;
+    border: 2px double lightgrey;
+    background-color: lemonchiffon;
+    width: 50%;
+    height: 141px;
+    margin-left: 265px; 
+    border-radius: 10px;
+}
+p{
+    font-size: 60px;
+    text-align: center;
+
+}
+ul{
+    width: 360px;
+    height: 40%;
+    position: relative;
+    left: 250px;
+    border: 5px dotted lightslategray;
+}
+li{
+    padding: 10px;
+    list-style: circle;
+}
